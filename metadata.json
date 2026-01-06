@@ -1,0 +1,5 @@
+{
+  "name": "Ghost Dork v5 AI",
+  "description": "An advanced AI-powered Google Dorking tool for security researchers, using Gemini for automated vulnerability reconnaissance and search grounding.",
+  "requestFramePermissions": []
+}
